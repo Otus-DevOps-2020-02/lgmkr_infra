@@ -1,3 +1,8 @@
+## Lesson 6
+
+testapp_IP = 104.155.22.50
+testapp_port = 9292
+
 ## Lesson5
 
 ### Connection credentials
