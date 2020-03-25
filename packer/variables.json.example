@@ -1,5 +1,5 @@
 {
-  "project_id": "",
-  "source_image_family": "",
+  "project_id": "project-id",
+  "source_image_family": "source-image-family-here",
   "machine_type": ""
 }
