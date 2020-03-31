@@ -1,3 +1,8 @@
+## Lesson 8
+
+- Teerraform configuration added
+- Added variables.tf and \*.tfvars.example
+
 ## Lesson 6
 
 testapp_IP = 104.155.22.50
