@@ -1,3 +1,9 @@
+## Lesson 9
+
+- Created Terraform modules
+- Created different stages
+- Created bucket
+
 ## Lesson 8
 
 - Teerraform configuration added
